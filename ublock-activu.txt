@@ -1,0 +1,9 @@
+# https://marketplace.spp.org
+# prevents the menu from appearing on first load
+#removes header, foorter, and extraneous info
+
+marketplace.spp.org##div.row > .text-center
+marketplace.spp.org##header
+marketplace.spp.org##footer
+marketplace.spp.org###menu-bar
+marketplace.spp.org##.large-12.columns > span
