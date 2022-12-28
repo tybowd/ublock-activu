@@ -1,6 +1,6 @@
 # https://marketplace.spp.org
 # prevents the menu from appearing on first load
-#removes header, foorter, and extraneous info
+#removes header, footer, and extraneous info
 
 marketplace.spp.org##div.row > .text-center
 marketplace.spp.org##header
