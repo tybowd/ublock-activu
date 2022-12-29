@@ -1,3 +1,5 @@
+! Expires: 1 day
+
 # https://marketplace.spp.org
 # prevents the menu from appearing on first load
 # removes header, footer, and extraneous info
