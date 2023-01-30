@@ -1,4 +1,5 @@
 ! Expires: 1 day
+#line above causes ublock to check this list for updates daily
 
 # https://marketplace.spp.org
 # prevents the menu from appearing on first load
@@ -11,3 +12,7 @@ marketplace.spp.org###menu-bar
 marketplace.spp.org##.large-12.columns > span
 marketplace.spp.org##.large-12.columns > p
 marketplace.spp.org##.button.primary
+
+# https://app.truelook.cloud
+# removes header
+app.truelook.cloud##.header
