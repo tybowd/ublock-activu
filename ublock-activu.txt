@@ -5,6 +5,8 @@
 # prevents the menu from appearing on first load
 # removes header, footer, and extraneous info
 
+##### VVV deprecated VVV #####
+## marketplace.spp.org is now portal.spp.org
 marketplace.spp.org##div.row > .text-center
 marketplace.spp.org##header
 marketplace.spp.org##footer
@@ -12,6 +14,16 @@ marketplace.spp.org###menu-bar
 marketplace.spp.org##.large-12.columns > span
 marketplace.spp.org##.large-12.columns > p
 marketplace.spp.org##.button.primary
+##### ^^^ deprecated ^^^ #####
+
+portal.spp.org##div.row > .text-center
+portal.spp.org##header
+portal.spp.org##footer
+portal.spp.org###menu-bar
+portal.spp.org##.large-12.columns > span
+portal.spp.org##.large-12.columns > p
+portal.spp.org##.button.primary
+
 
 # https://app.truelook.cloud
 # removes header
